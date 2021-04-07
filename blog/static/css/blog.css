@@ -49,8 +49,8 @@ h1, h2, h3, h4 {
 
 .post {
   width: 1000px;
-  border: 1px solid orange;
-  padding: 10px;
+  border: 1px solid #C25100;
+  padding: 25px;
   margin: 20px;
  
 }

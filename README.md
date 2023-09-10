@@ -1,4 +1,4 @@
-# my-first-blog
+# Quora-like web blog
 
 *Django Application*
 
